@@ -1,7 +1,7 @@
 ## Phil Odinga 🚀
 ### Senior Software Engineer, Security Engineer & Solutions Architect
 
-###✨ Summary: Crafting Secure & Innovative Digital Futures ✨
+## ✨ Summary: Crafting Secure & Innovative Digital Futures ✨
 Visionary Cybersecurity & Cloud Architect with 10 years of experience driving secure digital transformation and developing robust software solutions. My expertise shines in:
 
 🔒 Cybersecurity Architecture & Penetration Testing: Building unbreachable digital fortresses.
@@ -16,7 +16,7 @@ Visionary Cybersecurity & Cloud Architect with 10 years of experience driving se
 
 Adept at leading cross-functional teams, implementing robust security protocols, and optimizing system performance across diverse industries including finance, telecommunications, and healthcare. Passionate about innovation, problem-solving, and leveraging cutting-edge technologies to drive business value and secure digital infrastructures.
 
-### 🛠️ Technical Arsenal: My Toolkit for Innovation & Security 🛠️
+## 🛠️ Technical Arsenal: My Toolkit for Innovation & Security 🛠️
 Cybersecurity & Security Architecture:
 
 Security Architecture Design 🏗️
@@ -89,7 +89,7 @@ Tools & Methodologies:
 
 Git 🌳, SQL 💾, Agile/Scrum 🏃‍♂️, Problem Solving 🤔, Critical Thinking 🧠, Teamwork 🤝, Communication 🗣️, Adaptability 🔄
 
-### 💼 Professional Journey: Impact & Innovation 💼
+## 💼 Professional Journey: Impact & Innovation 💼
 Security Architect | VODACOM CONGO (RDC) S.A | Kinshasa, DRC
 
 Dates to be confirmed (Please update)
