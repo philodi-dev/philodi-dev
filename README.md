@@ -1,15 +1,10 @@
-Phil Odinga 🚀
-Senior Software Engineer, Security Engineer & Solutions Architect
+## Phil Odinga 🚀
+## Senior Software Engineer, Security Engineer & Solutions Architect
 
-📍 Location: Kinshasa, Democratic Republic of the Congo
-
-📞 Phone: +243 819989641
 
 📧 Email: me@philodi.com
 
 🔗 LinkedIn: linkedin.com/in/philjayz59a78119b
-
-💻 GitHub: github.com/philodi-dev
 
 ✨ Summary: Crafting Secure & Innovative Digital Futures ✨
 Highly accomplished and results-driven Senior Software Engineer and Solutions Architect with 10 years of extensive experience in designing, developing, and securing complex web, mobile, and server-based solutions. My expertise shines in:
@@ -186,10 +181,6 @@ Developed bespoke web and mobile applications, with a strong focus on robust bac
 
 Applied rigorous DevOps principles to streamline development workflows, significantly enhancing deployment efficiency and reliability. 🚀
 
-🎓 Education 🎓
-Bachelor of Engineering - BE, Computer Engineering | UTIC | Kinshasa, DR CONGO
-2015 – 2018
-
 🏆 Honors & Awards 🏆
 101 Best Delaware Financial Services Companies and Startups - Featured as one of the top companies (SendMore) by Best Startup, April 2022. 🌟
 
@@ -201,13 +192,3 @@ Astech-Congo receives seed funding from Seedstars - Secured funding from Seedsta
 "Astech-Congo reçoit des fonds de démarrage de la part de Seedstars"
 
 "101 Best Delaware Financial Services Companies and Startups"
-
-🗣️ Languages 🗣️
-English (Fluent) 🇬🇧
-
-French (Fluent) 🇫🇷
-
-Swahili (Fluent) 🇰🇪
-
-Lingala (Fluent) 🇨🇩
-
