@@ -6,7 +6,7 @@
 
 Visionary Cybersecurity & Cloud Architect with 10 years of experience driving secure digital transformation and developing robust software solutions. My expertise shines in:
 
-* 💻 **Software Engineering Development:** Architecting and building high-quality, scalable software solutions.
+* 💻 **Software Engineering & Development:** Architecting and building high-quality, scalable software solutions.
   
 * 🔒 **Cybersecurity Architecture & Penetration Testing:** Building unbreachable digital fortresses.
 
