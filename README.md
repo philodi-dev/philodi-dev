@@ -1,13 +1,8 @@
 ## Phil Odinga 🚀
-## Senior Software Engineer, Security Engineer & Solutions Architect
+### Senior Software Engineer, Security Engineer & Solutions Architect
 
-
-📧 Email: me@philodi.com
-
-🔗 LinkedIn: linkedin.com/in/philjayz59a78119b
-
-✨ Summary: Crafting Secure & Innovative Digital Futures ✨
-Highly accomplished and results-driven Senior Software Engineer and Solutions Architect with 10 years of extensive experience in designing, developing, and securing complex web, mobile, and server-based solutions. My expertise shines in:
+###✨ Summary: Crafting Secure & Innovative Digital Futures ✨
+Visionary Cybersecurity & Cloud Architect with 10 years of experience driving secure digital transformation and developing robust software solutions. My expertise shines in:
 
 🔒 Cybersecurity Architecture & Penetration Testing: Building unbreachable digital fortresses.
 
@@ -21,7 +16,7 @@ Highly accomplished and results-driven Senior Software Engineer and Solutions Ar
 
 Adept at leading cross-functional teams, implementing robust security protocols, and optimizing system performance across diverse industries including finance, telecommunications, and healthcare. Passionate about innovation, problem-solving, and leveraging cutting-edge technologies to drive business value and secure digital infrastructures.
 
-🛠️ Technical Arsenal: My Toolkit for Innovation & Security 🛠️
+### 🛠️ Technical Arsenal: My Toolkit for Innovation & Security 🛠️
 Cybersecurity & Security Architecture:
 
 Security Architecture Design 🏗️
@@ -94,14 +89,14 @@ Tools & Methodologies:
 
 Git 🌳, SQL 💾, Agile/Scrum 🏃‍♂️, Problem Solving 🤔, Critical Thinking 🧠, Teamwork 🤝, Communication 🗣️, Adaptability 🔄
 
-💼 Professional Journey: Impact & Innovation 💼
+### 💼 Professional Journey: Impact & Innovation 💼
 Security Architect | VODACOM CONGO (RDC) S.A | Kinshasa, DRC
 
-May 2025 – Present
+Dates to be confirmed (Please update)
 
-Spearheading the design and implementation of robust security architectures for critical telecommunication systems, ensuring resilience against evolving threats. 🛡️
+Spearheaded the design and implementation of robust security architectures for critical telecommunication systems, reducing potential vulnerabilities by X% and ensuring resilience against evolving threats. 🛡️
 
-Conducting in-depth security assessments and defining stringent security controls to safeguard sensitive data and infrastructure. 🔒
+Executed in-depth security assessments and defined stringent controls, safeguarding sensitive data and infrastructure. 🔒
 
 Collaborating seamlessly with development and operations teams to embed security best practices and principles throughout the entire Software Development Life Cycle (SDLC). 🤝
 
@@ -119,7 +114,7 @@ Technical Product Owner and Solution Architect (Full Time) | Vodacom DRC/M-PESA 
 
 July 2022 – Present
 
-Drove the technical roadmap for M-Pesa mobile applications (iOS/Android) and critical backend services, ensuring stringent alignment with business objectives and security standards. 🗺️
+Drove the technical roadmap for M-Pesa mobile applications (iOS/Android) using React Native and Swift, ensuring stringent alignment with business objectives and security standards. 🗺️
 
 Architected and implemented API-first interfaces for complex microservices, including real-time screening for Remittance and AML, and the comprehensive OPENAPI platform. 🌐
 
@@ -192,3 +187,4 @@ Astech-Congo receives seed funding from Seedstars - Secured funding from Seedsta
 "Astech-Congo reçoit des fonds de démarrage de la part de Seedstars"
 
 "101 Best Delaware Financial Services Companies and Startups"
+
